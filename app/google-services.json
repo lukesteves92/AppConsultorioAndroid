@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "610232524623",
+    "project_id": "appconsultorio-3cdd9",
+    "storage_bucket": "appconsultorio-3cdd9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610232524623:android:99275ba6192b863c68ef3a",
+        "android_client_info": {
+          "package_name": "com.lucasesteves.appconsultrio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "610232524623-qn64mhe418dj87e3j1vu9rc0uhdafr8d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-tBd6ZiXQXcfR9i2bO5kNzz2WOYgj0EQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "610232524623-qn64mhe418dj87e3j1vu9rc0uhdafr8d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
