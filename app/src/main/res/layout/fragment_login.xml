@@ -28,6 +28,17 @@
             app:layout_constraintEnd_toEndOf="parent"
             android:src="@drawable/back_black" />
 
+        <ImageView
+            android:id="@+id/googleLogin"
+            android:layout_width="90dp"
+            android:layout_height="120dp"
+            app:layout_constraintBottom_toBottomOf="@+id/tf_senha"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toEndOf="@+id/tf_nome"
+            app:layout_constraintBottom_toTopOf="@+id/floatingActionButton"
+            android:padding="20dp"
+            android:src="@drawable/google" />
+
         <com.google.android.material.floatingactionbutton.FloatingActionButton
             android:id="@+id/floatingActionButton"
             android:layout_width="wrap_content"
@@ -40,6 +51,7 @@
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toEndOf="@+id/tf_nome"
             app:layout_constraintTop_toBottomOf="@+id/fundo1"
+            app:layout_constraintVertical_bias="1.0"
             android:src="@drawable/ic_check"
             android:theme="@style/Theme.AppCompat.Button"/>
 
@@ -119,6 +131,9 @@
                 android:inputType="textPassword"
                 android:outlineProvider="background" />
         </com.google.android.material.textfield.TextInputLayout>
+
+
+
 
     </androidx.constraintlayout.widget.ConstraintLayout>
 </ScrollView>

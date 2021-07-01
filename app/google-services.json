@@ -14,6 +14,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "610232524623-i89pudntsav52v8af37fq7ohcok33cmi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lucasesteves.appconsultrio",
+            "certificate_hash": "bc8cd0c39741d35db6620df8025c6236eca3a37f"
+          }
+        },
+        {
           "client_id": "610232524623-qn64mhe418dj87e3j1vu9rc0uhdafr8d.apps.googleusercontent.com",
           "client_type": 3
         }
